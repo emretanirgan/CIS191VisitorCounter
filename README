@@ -1,0 +1,14 @@
+Scripts:
+
+getvisitors.py - Gets the current visitor number from visitors.txt and returns it
+updatevisitors.py - Gets the current visitor number from visitors.txt, increases it by 1, and the overwrites visitors.txt
+
+php scripts in index.php -
+Display location: I used a geolocation API that I found online for this. After downloading the API php file and getting an API key, I was able to get the location of the visitor through this method.
+
+Display OS-Browser: not really a script, just a command I found for PHP
+Display current time: again, not really a script, just a command that I found
+
+Extra Credit: I have implemented 3 additional features instead of the required 1 additional feature on top of displaying the visitor number.
+
+Emre Tanirgan
